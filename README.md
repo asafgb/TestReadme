@@ -2,4 +2,5 @@
 TestReadme
 
 ![alt text](https://my.alfred.edu/zoom/_images/foster-lake.jpg)
-![Image](https://my.alfred.edu/zoom/_images/foster-lake.jpg)(300x200)
+
+<img src="https://my.alfred.edu/zoom/_images/foster-lake.jpg" alt="drawing" width="200"/>
